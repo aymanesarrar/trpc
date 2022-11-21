@@ -44,7 +44,7 @@ const steps: Omit<StepProps, 'num'>[] = [
     title: 'Define your procedures',
     description: (
       <>
-        The first step to creating a tRPC API is to define your procedures.
+        The first step for creating a tRPC API is to define your procedures.
         <br /> <br />
         Procedures are the functions we will use to build your backend.
         They&apos;re <i>composable</i> and can be queries, mutations, or
